@@ -1,0 +1,15 @@
+{
+  "workbench.editor.customLabels.patterns": {
+    "**/app/**/page.{j,t}sx": "${dirname} - Page",
+    "**/app/**/index.{j,t}sx": "${dirname} - Index",
+    "**/app/**/layout.{j,t}sx": "${dirname} - Layout",
+    "**/app/**/loading.{j,t}sx": "${dirname} - Loading",
+    "**/app/**/template.{j,t}sx": "${dirname} - Template",
+    "**/app/**/route.{j,t}s": "${dirname} - Route",
+    "**/app/**/model.{j,t}s": "${dirname} - Model",
+    "**/app/**/error.{j,t}sx": "${dirname} - Error",
+    "**/components/**/index.{j,t}sx": "${dirname} - Component",
+    "**/index.{j,t}sx": "${dirname} - Index",
+    "**/index.{j,t}s": "${dirname} - Index"
+  }
+}

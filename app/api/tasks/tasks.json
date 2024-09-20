@@ -1,0 +1,69 @@
+[
+  {
+    "personId": 1,
+    "tasks": [
+      {
+        "id": 101,
+        "name": "Task A (High)",
+        "startDate": "2024-09-04",
+        "endDate": "2024-09-15",
+        "type": "Design",
+        "priority": "High"
+      },
+      {
+        "id": 102,
+        "name": "Task B (Medium)",
+        "startDate": "2024-09-16",
+        "endDate": "2024-09-30",
+        "type": "Development",
+        "priority": "Medium"
+      },
+      {
+        "id": 102,
+        "name": "Task C (Low)",
+        "startDate": "2024-09-05",
+        "endDate": "2024-09-09",
+        "type": "Design",
+        "priority": "Low"
+      },
+      {
+        "id": 104,
+        "name": "Task D (High)",
+        "startDate": "2024-09-01",
+        "endDate": "2024-09-15",
+        "type": "Testing",
+        "priority": "High"
+      }
+    ]
+  },
+  {
+    "personId": 2,
+    "tasks": [
+      {
+        "id": 201,
+        "name": "Task A2 (High)",
+        "startDate": "2024-09-03",
+        "endDate": "2024-09-07",
+        "type": "Design",
+        "priority": "Medium"
+      },
+      {
+        "id": 202,
+        "name": "Task B2 (Medium)",
+        "startDate": "2024-09-16",
+        "endDate": "2024-09-23",
+        "type": "Development",
+        "priority": "Medium"
+      },
+
+      {
+        "id": 404,
+        "name": "Task D2 (Low)",
+        "startDate": "2024-09-07",
+        "endDate": "2024-09-25",
+        "type": "Testing",
+        "priority": "Low"
+      }
+    ]
+  }
+]
